@@ -39,5 +39,6 @@ jobs:
           artifacts: "main.pdf"
           prerelease: true
           commit: main
-          tag: "workingBuild"
+          tag: "working-build"
+          name: "Latest Notes"
           allowUpdates: true
